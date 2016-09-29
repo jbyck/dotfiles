@@ -16,6 +16,7 @@ brew 'ruby-build'
 brew 'rbenv'
 brew 'roundup'
 brew 'wget'
+brew 'ansible'
 
 cask '1password'
 cask 'atom'
