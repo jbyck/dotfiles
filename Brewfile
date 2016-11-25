@@ -17,6 +17,7 @@ brew 'rbenv'
 brew 'roundup'
 brew 'wget'
 brew 'ansible'
+brew 'apache-spark'
 
 cask '1password'
 cask 'atom'
