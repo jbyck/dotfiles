@@ -19,6 +19,7 @@ brew 'wget'
 brew 'ansible'
 brew 'apache-spark'
 brew 'docker'
+brew 'docker-machine'
 
 cask '1password'
 cask 'atom'
