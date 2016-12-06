@@ -25,6 +25,8 @@
     invisibles: {}
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
+  "git-diff":
+    showIconsInEditorGutter: true
   "go-plus":
     goPath: "/Users/holman/Code/go"
   "linter-eslint":
