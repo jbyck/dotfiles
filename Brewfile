@@ -20,6 +20,7 @@ brew 'ansible'
 brew 'apache-spark'
 brew 'docker'
 brew 'docker-machine'
+brew 'docker-compose'
 brew 'pyenv-virtualenv'
 
 cask '1password'
