@@ -22,6 +22,7 @@ brew 'docker'
 brew 'docker-machine'
 brew 'docker-compose'
 brew 'pyenv-virtualenv'
+brew 'jq'
 
 cask '1password'
 cask 'atom'
