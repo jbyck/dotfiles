@@ -24,6 +24,7 @@ brew 'docker-compose'
 brew 'pyenv-virtualenv'
 brew 'jq'
 
+cask 'java'
 cask '1password'
 cask 'atom'
 cask 'firefox'
