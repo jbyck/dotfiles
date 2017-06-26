@@ -40,5 +40,7 @@
       "text.git-commit"
       "text.html.basic"
     ]
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
