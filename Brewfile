@@ -27,7 +27,6 @@ brew 'jq'
 
 cask 'java'
 cask '1password'
-cask 'atom'
 cask 'firefox'
 cask 'google-chrome'
 cask 'slack'
