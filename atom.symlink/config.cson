@@ -1,4 +1,7 @@
 "*":
+  "atom-ide-ui":
+    use:
+      "atom-ide-diagnostics-ui": false
   core:
     disabledPackages: [
       "background-tips"
@@ -6,7 +9,7 @@
       "metrics"
     ]
     followSymlinks: false
-    hideGitIgnoredFiles: true
+    hideGitIgnoredFiles: false
     ignoredNames: [
       ".bundle"
       ".git"
@@ -31,6 +34,11 @@
     goPath: "/Users/holman/Code/go"
   "linter-eslint":
     useGlobalEslint: true
+  "prettier-atom":
+    formatOnSaveOptions: {}
+    prettierOptions:
+      semi: false
+      singleQuote: true
   "release-notes":
     viewedVersion: "0.89.0"
   "spell-check":
@@ -40,7 +48,6 @@
       "text.git-commit"
       "text.html.basic"
     ]
-  "tree-view":
-    hideVcsIgnoredFiles: true
+  "tree-view": {}
   welcome:
     showOnStartup: false
