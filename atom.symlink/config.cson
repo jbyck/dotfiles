@@ -25,6 +25,7 @@
     ]
   editor:
     fontFamily: "Menlo"
+    fontSize: 13
     invisibles: {}
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
@@ -32,8 +33,19 @@
     showIconsInEditorGutter: true
   "go-plus":
     goPath: "/Users/holman/Code/go"
+  "ide-python":
+    pylsPlugins:
+      pycodestyle:
+        enabled: false
+      pyflakes:
+        enabled: false
   "linter-eslint":
     useGlobalEslint: true
+  "linter-flake8":
+    flakeErrors: true
+  "linter-ui-default":
+    panelHeight: 420
+    showPanel: true
   "prettier-atom":
     formatOnSaveOptions: {}
     prettierOptions:
